@@ -1,2 +1,3 @@
 # Bearing-dataset
-# This project is used for practicing error detection with machine learning on bearing dataset.
+Goal of this project is practicing error detection using machine learning. Bearing dataset will be sent through 
+autoencoders to learn when they are malfunctioning.
